@@ -1,7 +1,7 @@
 ﻿# Site-de-psicologia-
+ *Os dados coletados no formulário so site chagam instantaneamente  por email 
+ 
 *Site informativo que auxilia pessoas em vulnerabilidade mental
-
-*Os dados do formulário chagam instantaneamente  por email 
 
 *Fazendo que o quem esta acessando o site receba apoio o mais rapido possível.
 
@@ -9,4 +9,4 @@
 
 *Feito com html css javascript, php e um servidor (static forms), que envia as menságems por email. 
 
-* Localmente tenho esse projeto rodando em AWS.
+*  Tenho esse projeto rodando em AWS.
