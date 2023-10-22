@@ -7,6 +7,6 @@
 
 * E facilitando a vida do proficional que esta ao outro lado
 
-* Feito com  javascript, php e um servidor (static forms), que envia as menságems por email. 
+* Feito com javascript, php e um servidor que envia as menságems por email. 
 
 * Tenho esse projeto rodando em AWS.
