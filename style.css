@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@400;500;600;700;800;900 & display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+   /*display: flex;*/
+    align-items: center;
+    justify-content: center;
+    /*height: 100vh;*/
+   /* background: #63a0e6;*/
+   /* background: #cdd5de;*/
+    background-image: linear gradient(to botton right, #4affde 0%,#5b9dff 40%,#9f6bff 60%,#ff34d2);
+    background-size: 200% 200%;
+    animation: float 6s linear infinite alternate;
+}
+section #test{
+
+    padding: 45px;
+    background-color: #63a0e6;
+    width: 500px;
+    border-radius: 15px;
+   /* display:flex;*/
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    gap: 20px;
+    text-align: center;
+    box-shadow: 2px 15px 20px (61,61,61,.4);
+}
+header img{
+    width: 140px;
+}
+header h3{
+    color: #63a0e6;
+    font-size: 1.35rem;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    gap: 25px;
+
+}
+main a{
+    /*background: #63a0e6;*/
+    background: #1a1b1b;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 5px 5px #6ff;
+    transition: all .5s ease-in-out;
+}
+main a:hover{
+    opacity: .60;
+
+}
+
